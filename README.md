@@ -16,4 +16,6 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 🚀 Check out my website at [jenndryden.com](https://www.jenndryden.com/).
 
 ---
+<img src="https://github-readme-linkedin.vercel.app/user?username=jennifer-dryden" /> 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/jenndryden?label=Follow&style=social)](https://twitter.com/jenndryden) ![Profile Views](https://gpvc.arturio.dev/jenndryden)
