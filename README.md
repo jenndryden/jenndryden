@@ -1,6 +1,6 @@
 ### Hi There, I'm Jennifer Dryden! 👋
 
-⚡ I'm currently a Systems Design Engineer at the University of Waterloo. I will be joining [RBC](https://www.rbc.com/about-rbc.html) as a Software Developer this upcoming winter term!
+⚡ I'm currently a Systems Design Engineer at the University of Waterloo. I am currently working at [RBC](https://www.rbc.com/about-rbc.html) as a Software Developer for this winter term!
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs.
 
