@@ -5,7 +5,7 @@ I am currently working as a Software Developer at [Ceridian](https://www.ceridia
 
 I previously worked at [RBC](https://www.rbc.com/about-rbc.html) as a Software Developer for Winter 2021.
 
-I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs.
+I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat.
 
 ### 📝 Recent Roles
 
