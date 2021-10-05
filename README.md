@@ -17,7 +17,7 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 * [Innovation Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Summer 2019
 <!-- writing ends -->
 
-🚀 Check out my website at [jenndryden.com](https://www.jenndryden.com/).
+🚀 Check out my website... at [jenndryden.com](https://www.jenndryden.com/).
 
 ---
 
