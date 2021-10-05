@@ -3,7 +3,7 @@
 ⚡ I'm currently a Systems Design Engineer at the University of Waterloo. 
 I am currently working as a Software Developer at [Ceridian](https://www.ceridian.com) on their Dayforce Benefits team making Work Life Balance Better! 
 
-I previously worked at [RBC](https://www.rbc.com/about-rbc.html) as a Software Developer for Winter 2021.
+I previously worked at [RBC](https://www.rbc.com/about-rbc.html) as a Software Developer for my Winter 2021 co-op.
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat.
 
