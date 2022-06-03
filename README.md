@@ -11,6 +11,7 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 ### 📝 Recent Roles
 
 <!-- writing starts -->
+* [UX Engineering Intern - Google](https://about.google.com) - Summer 2022
 * [Software Developer Intern - Ceridian](https://www.ceridian.com) - Fall 2021
 * [Software Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Winter 2021
 * [Innovation Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Summer 2020
