@@ -2,7 +2,7 @@
 
 ⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for product, design and code! 🎨
 
-I am working at [Google](https://about.google.com) as a UX Engineering Intern this summer on the AR/VR team! 
+I am working at [Google](https://arvr.google.com/ar/) as a UX Engineering Intern this summer on the AR/VR team! 
 
 I previously worked as a Software Developer at [Ceridian](https://www.ceridian.com) on their Dayforce Benefits team making Work Life Better! I also worked at [RBC](https://www.rbc.com/about-rbc.html) as a Software Developer for my Winter 2021 co-op.
 
@@ -11,7 +11,7 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 ### 📝 Recent Roles
 
 <!-- writing starts -->
-* [UX Engineering Intern - Google](https://about.google.com) - Summer 2022
+* [UX Engineering Intern - Google](https://arvr.google.com/ar/) - Summer 2022
 * [Software Developer Intern - Ceridian](https://www.ceridian.com) - Fall 2021
 * [Software Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Winter 2021
 * [Innovation Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Summer 2020
