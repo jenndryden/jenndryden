@@ -4,8 +4,6 @@
 
 I recently wrapped up my summer internship at [Google](https://arvr.google.com/ar/) as a UX Engineer Intern on the AR/VR team! 
 
-I previously worked as a Software Developer at [Ceridian](https://www.ceridian.com) on their Dayforce Benefits team making Work Life Better! I also worked at [RBC](https://www.rbc.com/about-rbc.html) as a Software Developer for my Winter 2021 co-op.
-
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat.
 
 ### 📝 Recent Roles
