@@ -12,9 +12,7 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 * [UX Engineering Intern - Google](https://arvr.google.com/ar/) - Summer 2022
 * [Software Developer Intern - Ceridian](https://www.ceridian.com) - Fall 2021
 * [Software Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Winter 2021
-* [Innovation Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Summer 2020
-* [Chief Product Officer - Stackd Gaming](https://www.stackd.gg/) - Fall 2019
-* [Innovation Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Summer 2019
+
 <!-- writing ends -->
 
 🚀 Check out my website... at [jenndryden.com](https://www.jenndryden.com/).
