@@ -1,6 +1,6 @@
 ### Hi There, I'm Jennifer Dryden! 👋
 
-⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for product, design and code! 🎨
+⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for code and design! 🎨
 
 I recently wrapped up my summer internship at [Google](https://arvr.google.com/ar/) as a UX Engineer Intern on the AR/VR team! 
 
