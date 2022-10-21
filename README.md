@@ -4,7 +4,7 @@
 
 I recently wrapped up my summer internship at [Google](https://arvr.google.com/ar/) as a UX Engineer Intern on the AR/VR team! 
 
-I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat.
+I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat. Bonus points if you want to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
 ### 📝 Recent Roles
 
