@@ -1,4 +1,4 @@
-### Hi There, I'm Jennifer Dryden! 👋
+### Hi There, I'm Jenn Dryden! 👋
 
 ⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for code and design! 🎨
 
