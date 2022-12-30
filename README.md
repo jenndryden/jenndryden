@@ -2,14 +2,15 @@
 
 ⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for code and design! 🎨
 
-I recently wrapped up my summer internship at [Google](https://arvr.google.com/ar/) as a UX Engineer Intern on the AR/VR team! 
+I am currently working at Complete as a SWE Intern, an exciting fast-paced YC-backed startup in San Francisco. 
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat. Bonus points if you want to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
 ### 📝 Recent Roles
 
 <!-- writing starts -->
-* [UX Engineering Intern - Google](https://arvr.google.com/ar/) - Summer 2022
+* [Software Engineering Intern - Complete (YC W22)](https://www.complete.so/) - Winter 2023
+* [UX Engineering Intern - Google AR/VR](https://arvr.google.com/ar/) - Summer 2022
 * [Software Developer Intern - Ceridian](https://www.ceridian.com) - Fall 2021
 * [Software Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Winter 2021
 
