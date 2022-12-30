@@ -9,8 +9,8 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 ### 📝 Recent Roles
 
 <!-- writing starts -->
-* [Software Engineering Intern - Complete (YC W22)](https://www.complete.so/) - Winter 2023
-* [UX Engineering Intern - Google AR/VR](https://arvr.google.com/ar/) - Summer 2022
+* [Software Engineer Intern - Complete (YC W22)](https://www.complete.so/) - Winter 2023
+* [UX Engineer Intern - Google AR/VR](https://arvr.google.com/ar/) - Summer 2022
 * [Software Developer Intern - Ceridian](https://www.ceridian.com) - Fall 2021
 * [Software Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Winter 2021
 
