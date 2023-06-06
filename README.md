@@ -2,8 +2,6 @@
 
 ⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for code and design! 🎨
 
-I am currently working at Complete as a SWE Intern, an exciting fast-paced YC-backed startup in San Francisco. 
-
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat. Bonus points if you want to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
 ### 📝 Recent Roles
