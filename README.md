@@ -18,4 +18,5 @@ I love exploring new projects, frameworks and languages. Feel free to browse aro
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jenndryden?label=Follow&style=social)](https://twitter.com/jenndryden) ![Profile Views](https://gpvc.arturio.dev/jenndryden)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jenndryden?label=Follow&style=social)](https://twitter.com/jenndryden)
+<!-- ![Profile Views](https://gpvc.arturio.dev/jenndryden) -->
