@@ -4,7 +4,7 @@
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat. Bonus points if you want to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
-I also help run the Canadian Summer Internship 2024 repo. If you are interested in helping out, please message me! 💻
+I also help run the Canadian Tech Summer Internship 2024 [repo](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024). If you are interested in helping out, please message me! 💻
 
 ### 📝 Recent Roles
 
