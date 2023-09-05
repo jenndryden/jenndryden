@@ -2,7 +2,7 @@
 
 ⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for code and design! 🎨
 
-I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat. Bonus points if you want to chat about [Gitmojis](https://gitmoji.dev/)! 😜
+I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
 I also help run the Canadian Tech Summer Internship 2024 [repo](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024). If you are interested in helping out or have ideas, please message me to collaborate! 💻
 
