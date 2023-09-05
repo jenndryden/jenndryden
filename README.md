@@ -1,6 +1,6 @@
 ### Hi There, I'm Jenn Dryden! 👋
 
-⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for code and design! 🎨
+⚡ I'm currently a Systems Design Engineer at the University of Waterloo, with a passion for prototyping with code and design! 🎨
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
