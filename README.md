@@ -1,6 +1,6 @@
 ### Hi There, I'm Jenn Dryden! 👋
 
-⚡ I'm currently a Systems Design Engineering student at the University of Waterloo, with a passion for prototyping with code and design! 🎨
+⚡ I'm currently a Systems Design Engineering student at the University of Waterloo, with a passion for product, code & design! 🎨
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
@@ -9,6 +9,7 @@ I also help run the Canadian Tech Summer Internship 2024 [repo](https://github.c
 ### 📝 Recent Roles
 
 <!-- writing starts -->
+* [Associate Product Manager Intern - Google Maps](https://www.google.ca/maps/about/#!/) - Summer 2024
 * [Software Engineer Intern - Complete (YC W22)](https://www.complete.so/) - Winter 2023
 * [UX Engineer Intern - Google AR/VR](https://arvr.google.com/ar/) - Summer 2022
 * [Software Developer Intern - Ceridian](https://www.ceridian.com) - Fall 2021
