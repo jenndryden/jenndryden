@@ -1,6 +1,6 @@
 ### Hi There, I'm Jenn Dryden! 👋
 
-⚡ I'm a Systems Design Engineering grad from the University of Waterloo, with a passion for product, code & design! 🎨 I'm currently an Associate Product Manager at Youtube working on the GenAI Shorts team.
+⚡ I'm a Systems Design Engineering grad from the University of Waterloo, with a passion for product, code & design! 🎨 I'm currently an Associate Product Manager at [@Google](https://github.com/google) working on the YouTube GenAI Shorts team.
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
