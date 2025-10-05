@@ -1,12 +1,12 @@
 ### Hi There, I'm Jenn Dryden! 👋
 
-⚡ I'm currently a Systems Design Engineering student at the University of Waterloo, with a passion for product, code & design! 🎨
+⚡ I'm a Systems Design Engineering grad from the University of Waterloo, with a passion for product, code & design! 🎨 I'm currently an Associate Product Manager at Youtube working on the GenAI Shorts team.
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work and designs, or message me to chat about [Gitmojis](https://gitmoji.dev/)! 😜
 
 I also help run the 2025 Canadian Tech Intern and New Grad Opportunities [repo](https://github.com/jenndryden/Canadian-Tech-Internships-and-New-Grad-2025). If you are interested in helping out or have ideas, please message me to collaborate! 💻
 
-### 📝 Recent Roles
+### 📝 Previous Roles
 
 <!-- writing starts -->
 * [Associate Product Manager Intern - Google Maps](https://www.google.ca/maps/about/#!/) - Summer 2024
